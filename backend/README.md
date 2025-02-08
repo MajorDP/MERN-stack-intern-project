@@ -1,6 +1,4 @@
-# YourPosts - Sign in and post your thoughts (Backend)
-
-LINK TO FRONTEND - https://github.com/MajorDP/MERN-stack-intern-project
+# YourPosts - Sign in and post your thoughts
 
 ## Description
 
