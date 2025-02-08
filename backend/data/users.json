@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "1",
+    "email": "asura@abv.bg",
+    "password": "1231233",
+    "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFem0b3QKwZNYgZ3eCClFlnIlIn5V1nDJjw&s"
+  },
+  {
+    "userId": "2",
+    "email": "a@abv.bg",
+    "password": "1231233",
+    "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFem0b3QKwZNYgZ3eCClFlnIlIn5V1nDJjw&s"
+  },
+  {
+    "userId": "3",
+    "email": "aa@abv.bg",
+    "password": "1231233",
+    "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFem0b3QKwZNYgZ3eCClFlnIlIn5V1nDJjw&s"
+  },
+  {
+    "userId": "4",
+    "email": "newuser@abv.bg",
+    "password": "1231233",
+    "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFem0b3QKwZNYgZ3eCClFlnIlIn5V1nDJjw&s"
+  }
+]

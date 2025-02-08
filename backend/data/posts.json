@@ -1,0 +1,40 @@
+[
+  {
+    "postId": "0.044156336043987165",
+    "userId": "1",
+    "title": "Edited tag added.",
+    "message": "Edited posts show an \"(Edited)\"- tag next to their date of posting (You can see it now).",
+    "postedBy": "asura@abv.bg",
+    "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFem0b3QKwZNYgZ3eCClFlnIlIn5V1nDJjw&s",
+    "datePosted": "2/5/2025",
+    "isEdited": true
+  },
+  {
+    "postId": "0.6675627060854985",
+    "userId": "1",
+    "title": "Design complete",
+    "message": "Simple design, but it does the job.",
+    "postedBy": "asura@abv.bg",
+    "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFem0b3QKwZNYgZ3eCClFlnIlIn5V1nDJjw&s",
+    "datePosted": "5.02.2025 г."
+  },
+  {
+    "postId": "0.6925477496882511",
+    "userId": "1",
+    "title": "Fixed minor app bugs",
+    "message": "Fixed bugs like Repeat password functionality on singup, and Post ID displays;",
+    "postedBy": "asura@abv.bg",
+    "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFem0b3QKwZNYgZ3eCClFlnIlIn5V1nDJjw&s",
+    "datePosted": "2/5/2025",
+    "isEdited": true
+  },
+  {
+    "postId": "5",
+    "userId": "1",
+    "title": "Site design/functionality is complete.",
+    "message": "Design and functionality done, app works with react/ts/js frontend, and Nodejs/Expressjs backend, JSON files used for database.",
+    "postedBy": "asura@abv.bg",
+    "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFem0b3QKwZNYgZ3eCClFlnIlIn5V1nDJjw&s",
+    "datePosted": "5.02.2025 г."
+  }
+]
